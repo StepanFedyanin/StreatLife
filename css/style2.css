@@ -813,6 +813,8 @@ display: flex;
 .katalogm{
   display: inline-flex;
   flex-wrap: wrap;
+  margin-bottom: 15%;
+
 }
 
 .katalogm__things{
